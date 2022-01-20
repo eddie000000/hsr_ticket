@@ -22,6 +22,6 @@ npx extract-stealth-evasions
 ```
 
 Reference:  
-https://github.com/maxmilian/thsrc_captcha  
+https://github.com/maxmilian/thsrc_captcha  (如果要自動辨識驗證碼模型在這)
 https://github.com/BreezeWhite/THSR-Ticket  
 https://youtu.be/yhL6VO8xeHA
