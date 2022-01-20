@@ -14,6 +14,9 @@
 - [x] 儲存會員資料
 - [ ] 程式運行後指定時間觸發
 
+## Demo
+![Alt Text](https://github.com/eddie000000/hsr_ticket/blob/main/2022-01-20%2015-54-12.gif)
+
 ## Warning
 由於高鐵網站會檔selenium 因此需透過特定JS方法來迴避網站偵測透過stealth.min.js避免被網站偵測  
 stealth.min.js檔案製作方法為透過Node.js Command 運行
